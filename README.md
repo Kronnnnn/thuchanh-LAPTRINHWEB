@@ -1,10 +1,15 @@
 ### HOÀNG NGUYỄN MINH THIỆN
-#### THUC HANH WEB WEBSITE BAN QUAN AO
+#### MÔN THỰC HÀNH LẬP TRÌNH WEBSITE BÁN LAPTOP
 
-#### Hướng dẫn cài dặt
-#### Bước 1: Mở cmd tại vị trí muốn lưu file source code
-#### Bước 2: Nhập lệnh vào cmd
-#### git clone https://github.com/Kronnnnn/thweb.git
 #### Hướng dẫn sử dụng
-#### Bước 1: Di chuyển folder code vừa tải về sang đường dẫn của thư mục bạn lưu ( Ví dụ như sau:D:\wamp64\www)
-#### Bước 2 : cmd tại thư mục
+#### Bật WAMPSERVER64
+#### Bước 1: Mở FOLDER wamp64\www tùy vào máy lưu ở đâu, ví dụ đường dẫn (E:\wamp64\www)
+#### Bước 2 : cmd tại thư mục www và viết lệnh: 
+#### git clone https://github.com/Kronnnnn/thuchanh-LAPTRINHWEB.git
+#### cd thuchanh-LAPTRINHWEB
+#### code .
+#### MỞ THƯ MỤC thuchanh-LAPTRINHWEB LÊN VÀ IMPORT FILE DATABASE TÊN : ltw.sql VÀO phpmyadmin CỦA WAMP
+#### tại file index.php chạy code bằng PHP SERVER: RELOAD SERVER 
+#### hoặc http://localhost/fashion/admin/login.php
+#### http://localhost/fashion/index.php
+### admin 123456 ( ĐÂY LÀ TÀI KHOẢN ADMIN )
